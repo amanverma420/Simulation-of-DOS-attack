@@ -103,14 +103,6 @@ Monitor server response in real-time using the interface.
 
 Stop the simulation with CTRL+C or the stop button in the interface (if implemented).
 
-📸 Screenshots
-
-**Server Home Page**  
-![Server Home Page](screenshots/home_page.png)  
-
-**Simulation in Progress**  
-![Simulation Running](screenshots/simulation.png)  
-
 
 ⚠️ Notes
 Only use this project in a controlled testing environment.
