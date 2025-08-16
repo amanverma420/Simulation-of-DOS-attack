@@ -48,7 +48,7 @@ DOS-Attack-Simulation/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/amanverma420/Simulation-of-DOS-attack.git
-cd dos_simulation_project
+cd Simulation-of-DOS-attack$ cd ..
 
 ```
 2. Activate virtual environment
